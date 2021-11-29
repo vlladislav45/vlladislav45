@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on rpg game
-- 🌱 I’m currently learning Angular 12
+- 🌱 I’ve learnt Angular 12 in advanced level
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vlladislav45)](https://github.com/vlladislav45/github-readme-stats)
