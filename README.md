@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on rpg game
-- 🌱 I’ve learnt Angular 12 in advanced level
+- 🔭 I’m currently working on mobile/web applications
+- 🌱 I’m currently learning algorithms and design patterns that i'm not learnt yet
+- 📫 How to reach me: vlladislav45@gmail.com
+- 💬 Ask me about: game dev, that's my lovely topic
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vlladislav45)](https://github.com/vlladislav45/github-readme-stats)
