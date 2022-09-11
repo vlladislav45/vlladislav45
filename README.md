@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on mobile/web applications
-- 🌱 I’m currently learning algorithms and design patterns that i'm not learnt yet
+- 🔭 I’m currently working on https://app.adoptmebg.com/
+- 🌱 I’m currently learning Artificial intelligence
 - 📫 How to reach me: vlladislav45@gmail.com
-- 💬 Ask me about: either server logic, microservices or game dev, that are my lovely topics
+- 💬 Ask me about: backend infrastructure, mobile structure, game development
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vlladislav45)](https://github.com/vlladislav45/github-readme-stats)
