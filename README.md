@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 - 🐶 My lovely side project https://adoptmebg.com
 - 🌱 I’m currently learning Artificial intelligence
 - 📫 How to reach me: vlladislav45@gmail.com
-- 💬 Ask me about: backend infrastructure, mobile structure, game development
+- 💬 Ask me about: backend infrastructure, and mobile developing
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vlladislav45)](https://github.com/vlladislav45/github-readme-stats)
