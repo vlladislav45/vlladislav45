@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on https://app.adoptmebg.com/
+- 🔭 I’m currently working on https://minecrafttopzone.com
+- 🐶 My lovely side project https://adoptmebg.com
 - 🌱 I’m currently learning Artificial intelligence
 - 📫 How to reach me: vlladislav45@gmail.com
 - 💬 Ask me about: backend infrastructure, mobile structure, game development
