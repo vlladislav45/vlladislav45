@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on https://minecrafttopzone.com
-- 🐶 My lovely side project https://adoptmebg.com
-- 🌱 I’m currently learning Artificial intelligence
+- 🔭 I’m currently working on https://dkp.bg
+- 🐶 Animal help platform https://adoptmebg.com
+- 🤔 The project that I've created on PHP 🕔 https://minecrafttopzone.com
 - 📫 How to reach me: vlladislav45@gmail.com
-- 💬 Ask me about: backend infrastructure, and mobile developing
+- 💬 Ask me about: Web/Mobile development, and Cloud Infrastructure
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vlladislav45)](https://github.com/vlladislav45/github-readme-stats)
