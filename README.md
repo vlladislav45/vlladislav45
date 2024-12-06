@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on https://dkp.bg
 - 🐶 Animal help platform https://adoptmebg.com
 - 🤔 The project that I've created on PHP 🕔 https://minecrafttopzone.com
 - 📫 How to reach me: vlladislav45@gmail.com
