@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 -->
 
 - 🐶 Animal help platform https://adoptmebg.com
-- 🤔 The project that I've created on PHP 🕔 https://minecrafttopzone.com
+- 🤔 Minecraft server listing that I've created on PHP 🕔 https://minecrafttopzone.com
+- 🔭 Currently working on https://github.com/Dojibery/daily-wars
 - 📫 How to reach me: vlladislav45@gmail.com
 - 💬 Ask me about: Web/Mobile development, and Cloud Infrastructure
 
